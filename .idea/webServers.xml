@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b56f67a8-f17e-430d-83c6-f8e740556cf5" name="https://github.com/hamidi71/cms.git" url="https://github.com/hamidi71/cms.git">
+        <fileTransfer host="https://github.com/hamidi71/cms.git" port="21" username="hamidi71">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

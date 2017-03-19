@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/hamidi71/cms.git" uploadOnCheckin="b56f67a8-f17e-430d-83c6-f8e740556cf5">
+    <serverData>
+      <paths name="https://github.com/hamidi71/cms.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/hamidi71/cms.git" />
+  </component>
+</project>
